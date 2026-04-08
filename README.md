@@ -1,4 +1,5 @@
 # Desenvolvimento de Software — 2026/1 🎓
+## Profa. Juliana Costa Silva
 ## Prof. Paulo Eduardo Bueno
 
 Bem-vindo ao repositório oficial da disciplina. Este espaço foi projetado para ser seu guia de estudos, consolidando a teoria e a prática do paradigma de **Programação Orientada a Objetos (POO)** utilizando a linguagem Java.
