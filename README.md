@@ -1,9 +1,3 @@
-title: Desenvolvimento de Software 2026/1
-description: Material de apoio e documentação da disciplina de Programação Orientada a Objetos (Java).
-theme: jekyll-theme-minimal
-author: Prof. Paulo Eduardo Bueno
-show_downloads: true
-google_analytics:
 # Desenvolvimento de Software — 2026/1 🎓
 ## Prof. Paulo Eduardo Bueno
 
