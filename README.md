@@ -13,7 +13,7 @@ O curso aborda a transição do pensamento estruturado para o orientado a objeto
 
 | Módulo | Tópico | Documento |
 | :--- | :--- | :--- |
-| **Intro** | Fundamentos da Linguagem Java e JVM | [Acessar](.intro) |
+| **Intro** | Fundamentos da Linguagem Java e JVM | [Acessar](./intro) |
 | **POO I** | Classes, Objetos e Métodos | [aula04.md](./aula04.md) |
 | **POO II** | Controladores de Acesso e Membros Estáticos | [aula05.md](./aula05.md) |
 | **POO III** | Construtores e Herança | [aula06.md](./aula06.md) |
