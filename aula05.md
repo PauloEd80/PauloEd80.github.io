@@ -1,10 +1,5 @@
 # Aula 05 — Encapsulamento, Getters/Setters e Membros Estáticos
 
-> 📅 **Bloco III — Encapsulamento e Boas Práticas**
-> 👩‍🏫 **Profa. Juliana Costa-Silva** — Universidade Positivo, Campus Londrina
-> 📖 Referência: Deitel & Deitel, *Java: Como Programar* (10ª ed.); Horstmann & Cornell, *Core Java* Vol. I
-
----
 
 ## 🎯 Objetivos de Aprendizagem
 
